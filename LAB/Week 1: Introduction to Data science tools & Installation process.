@@ -1,0 +1,35 @@
+Tools : Google colab, Anaconda, Pyhthon 3.8, pycharm..
+Install Python
+Pyhthon 3.8
+Python is the backbone of most data science workflows.
+Download from python.org → Downloads
+  •	Choose the latest stable version (e.g., 3.10+)
+  •	Tick Add Python to PATH during installation
+  •	Verify installation with python --version in terminal
+Set Up Jupyter Notebook
+Recommended IDE
+Jupyter Notebook is widely used for interactive coding and visualization.
+Run pip install notebook
+  •	Launch with jupyter notebook
+  •	Opens in your browser
+  •	Great for step-by-step analysis and plotting
+Install Core Libraries
+Essential packages for data manipulation, visualization, and machine learning.
+Run pip install numpy pandas matplotlib seaborn scikit-learn
+  •	NumPy: Library used for numerical and mathematical operations.
+  •	Pandas: Library used for data analysis and handling tables/data.
+  •	Matplotlib/Seaborn: visualization
+  •	Scikit-learn: machine learning
+Set Up Anaconda (Optional)
+All-in-One Setup
+Anaconda simplifies package management and environment setup.
+Download from anaconda.com → Individual Edition
+  •	Includes Python, Jupyter, and libraries
+  •	Use anaconda install package_name for easy management
+  •	Recommended for beginners
+Verify Installation
+Ensure all tools are working correctly before starting projects.
+  •	Open Jupyter Notebook
+  •	Import libraries: import numpy as np, import pandas as pd
+  •	Run a test plot with Matplotlib
+  •	Confirm no errors appear
